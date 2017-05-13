@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jogo da velha</string>
+    <string name="aguarde">A G U A R D E...</string>
+    <string name="bemVindo">Olá tudo bem?</string>
+    <string name="convite">Vamos brincar um pouco?</string>
+    <string name="Escolha">Escolha o modo de jogo :</string>
+    <string name="iniciar">Recomeçar</string>
+    <string name="PvC"><i><b>1 JOGADOR</b></i></string>
+    <string name="PvP">2 JOGADORES</string>
+</resources>
